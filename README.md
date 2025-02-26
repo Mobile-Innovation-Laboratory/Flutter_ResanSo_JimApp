@@ -11,7 +11,8 @@
 <h2>Description</h2>
 <p>JimApp is a fitness application designed to help users manage and track their workout routines. With an intuitive interface and comprehensive features, users can easily create workout schedules, log progress, and receive daily motivation. The app includes various modules such as exercise pages, settings, and a home page displaying key information and workout statistics. ✨</p>
 
-## 🛠 Technical Stack
+<h2>Fiture</h2>
+<p><b>Workout Management:<b/> Create and manage workout schedules, track progress, and log workout details. 🌟</p>
 
 **Frontend**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
