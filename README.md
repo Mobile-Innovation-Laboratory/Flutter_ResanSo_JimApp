@@ -8,6 +8,8 @@
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/restpage.jpg" alt="Rest Page" width="15%" />
 </div>
 
+<h2>JimApp is a fitness application designed to help users manage and track their workout routines. With an intuitive interface and comprehensive features, users can easily create workout schedules, log progress, and receive daily motivation. The app includes various modules such as exercise pages, settings, and a home page displaying key information and workout statistics. ✨</h2>
+
 ## 🛠 Technical Stack
 
 **Frontend**  
