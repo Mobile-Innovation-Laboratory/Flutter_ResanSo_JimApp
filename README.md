@@ -1,7 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's the styled README with integrated screenshots:
-
 ```markdown
 # JimApp 🏋️♀️
 
@@ -13,15 +9,7 @@ Transform your fitness journey with JimApp - Your ultimate workout companion! Tr
 
 ## 📱 App Preview
 
-<div align="center">
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/homepage.jpg" width="30%" alt="Home Screen" />
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/stats.jpg" width="30%" alt="Statistics" />
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/register.jpg" width="30%" alt="Registration" />
-  
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/addworkout.jpg" width="30%" alt="Add Workout" />
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/exercise.jpg" width="30%" alt="Exercises" />
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/restpage.jpg" width="30%" alt="Rest Timer" />
-</div>
+![image alt](https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/blob/ac8160d1cc955b3b254afdf135fa523277abb1a1/homepage.jpg)
 
 ## ✨ Key Features
 
