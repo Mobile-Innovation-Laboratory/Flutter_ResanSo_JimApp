@@ -1,8 +1,8 @@
 <h1>JimApp</h1>
 <div align="center">
+  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/register.jpg" alt="Register" width="15%" />
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/homepage.jpg" alt="Homepage" width="15%" />
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/stats.jpg" alt="Stats" width="15%" />
-  <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/register.jpg" alt="Register" width="15%" />
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/addworkout.jpg" alt="Add Workout" width="15%" />
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/exercise.jpg" alt="Exercise" width="15%" />
   <img src="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp/raw/ac8160d1cc955b3b254afdf135fa523277abb1a1/restpage.jpg" alt="Rest Page" width="15%" />
