@@ -11,8 +11,47 @@
 <h2>Description</h2>
 <p>JimApp is a fitness application designed to help users manage and track their workout routines. With an intuitive interface and comprehensive features, users can easily create workout schedules, log progress, and receive daily motivation. The app includes various modules such as exercise pages, settings, and a home page displaying key information and workout statistics. ✨</p>
 
-<h2>Fiture</h2>
-<p>Workout Management: Create and manage workout schedules, track progress, and log workout details. 🌟</p>
+<h2>Feature</h2>
+<b>Workout Management: Create and manage workout schedules, track progress, and log workout details. 🌟 <br> Home Page: Display user profile information, daily motivational quotes, and workout statistics. ⚙️ <br> Exercise Page: Add, edit, and delete workouts with detailed information and images. 📈 </b>
+
+## 🚀 Usage
+
+### Step 1: Installation
+for now, you can clone this repository and run in your vscode with your device
+
+---
+
+### Step 2: Account Setup
+👤 **Register** or **Log In** to your account:
+
+---
+
+### Step 3: Create Your Workout Plan
+💪 **Build your schedule**:
+1. Tap the **"+"** button to add a new workout.
+2. Choose exercises from the library or create custom ones.
+3. Set reps, sets, and rest intervals.
+4. Save your plan and start tracking!
+
+---
+
+### Step 4: Navigate the App
+🔍 Use the **bottom navigation bar** to explore:
+- **Home**: View your daily progress, motivational quotes, and quick stats.
+- **Exercise**: Manage your workouts, add new exercises, or edit existing ones.
+- **Settings**: Customize app preferences, set reminders, and connect wearable devices.
+
+---
+
+### Step 5: Track Your Progress
+📈 **Monitor your achievements**:
+- Check your weekly and monthly stats.
+- View progress charts.
+- Celebrate milestones with achievement badges!
+
+---
+
+> 💡 **Pro Tip**: Enable notifications to get daily reminders and motivational messages!
 
 **Frontend**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -22,36 +61,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FF6600?style=flat&logo=hive&logoColor=white)
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow our guidelines:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
   Made with ❤️ by Resan Saint Gregorius So | 
   <a href="https://github.com/Mobile-Innovation-Laboratory/Flutter_ResanSo_JimApp">View Source</a>
 </div>
 ```
-
-**Key Improvements:**
-1. Added actual screenshots in responsive grid layout
-2. Organized features with proper emoji indicators
-3. Included platform-specific download badges
-4. Added technical stack visualization
-5. Integrated code snippets for key functionalities
-6. Improved navigation documentation
-7. Added proper licensing and contribution guidelines
-8. Mobile-optimized layout and formatting
-
-Note: Make sure all image URLs are accessible publicly. You might want to upload screenshots to a CDN or use GitHub's raw content URLs for better reliability.
